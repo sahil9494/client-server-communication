@@ -1,4 +1,5 @@
 //package demo;
+// Server file.
 
 import java.io.*;
 import java.net.*;
